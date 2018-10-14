@@ -1,7 +1,4 @@
-
-*Currently Not Deployed*
-
-Code.fun.do Project
+Microsoft Code.fun.do Hackathon Jan 2018 Project 
 
 Institute: IIT Jodhpur Team Name: DeathStar Team Members: >>Anshul Ahuja B17CS006 >>Geetesh Gupta B17CS024 >>Karan Modh B17CS029 Project Name: IITJ Info Bot Project Type: Bot Project Theme: Productivity Technologies Used: Azure Bot Service, Nodejs, LUIS What does the bot do? This is a web app based chat bot to provide information to IIT Jodhpur Students.
 
@@ -11,3 +8,6 @@ The chatbot uses LUIS for NLP, commands for the above services can be given with
 
 	You can also use "menu" or "bus" or "timetable" or "gymkhana" or "faculty" anytime to trigger to that particular function and exit the current one.
 Sample Logins: Sample Roll numbers for timetable features: B17ME044, B17CS023
+
+
+*Currently Not Deployed*
