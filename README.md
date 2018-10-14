@@ -1,7 +1,6 @@
-Links: Web app(chabot) URL:
-https://webchat.botframework.com/embed/iitjbot?s=nrHogwilXwI.cwA.K6Y.8Aw6lVy3SAP8oYBrs7moOwXQBmj6YMRYYKES_iGigIM
 
-CFD
+*Currently Not Deployed*
+
 Code.fun.do Project
 
 Institute: IIT Jodhpur Team Name: DeathStar Team Members: >>Anshul Ahuja B17CS006 >>Geetesh Gupta B17CS024 >>Karan Modh B17CS029 Project Name: IITJ Info Bot Project Type: Bot Project Theme: Productivity Technologies Used: Azure Bot Service, Nodejs, LUIS What does the bot do? This is a web app based chat bot to provide information to IIT Jodhpur Students.
